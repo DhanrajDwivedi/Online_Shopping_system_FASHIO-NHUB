@@ -1,2 +1,2 @@
-# Online_Shopping_system_FASHIO-NHUB
-An e-commerce website for fashion.
+# Online-Shopping-System
+Build an Online Shopping System using HTML, CSS, JavaScript, PHP, MySQL, XAMPP
